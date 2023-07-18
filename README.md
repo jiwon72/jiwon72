@@ -1,5 +1,5 @@
-👋 Hi I'm jiwon 
-🔭 I'm studing at Pukong National Univ.
+👋 Hi I'm jiwon   
+🔭 I'm studing at Pukong National Univ.  
 😄 Welcome To my Github
 <!--
 **jiwon72/jiwon72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
